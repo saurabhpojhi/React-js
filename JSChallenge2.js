@@ -1,4 +1,4 @@
-// JS Challenge #2
+JS Challenge #2
 
 // 1. create a react app from scratch
 // 2. Add one h1 elemet ex Your name
@@ -20,4 +20,3 @@ ReactDOM.render(
   </>,
   document.getElementById("root")
 );
-
